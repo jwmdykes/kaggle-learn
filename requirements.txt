@@ -1,0 +1,9 @@
+pylint
+ipykernel
+autopep8
+matplotlib
+kaggle
+pandas
+seaborn
+sklearn
+tensorflow-gpu
